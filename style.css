@@ -1,0 +1,28 @@
+
+.card-header{
+    color: rgb(1, 11, 3);
+    font-weight: bolder;
+    font-size: 25px;
+    text-align: center;
+}
+#title{
+    margin: 30px;
+    padding: auto;
+    font-size: 50px;
+    font-weight: bold;
+}
+.card-body{
+    text-align: center;
+    background-color:#FFEBEB;
+    margin-bottom: 0px;
+}
+.flag1{
+    width: 90%;
+    height: 150px;
+}
+.col-sm-6.col-md-4.col-lg-4.col-xl-4{
+    margin-bottom: 25px;
+}
+.align{
+    text-align: left;
+}
